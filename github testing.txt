@@ -1,4 +1,4 @@
-This is commit 1
+I have replaced this heading!
 
 Now I add some extra text...
 
